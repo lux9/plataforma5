@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Joey0311/plataforma5/issues"
   },
-  "homepage": "https://github.com/Joey0311/plataforma5#readme"
+  "homepage": "https://github.com/Joey0311/plataforma5#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
 }
