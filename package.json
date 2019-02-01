@@ -1,0 +1,19 @@
+{
+  "name": "plataforma5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joey0311/plataforma5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joey0311/plataforma5/issues"
+  },
+  "homepage": "https://github.com/Joey0311/plataforma5#readme"
+}
